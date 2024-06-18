@@ -47,6 +47,8 @@ aligned submit \
 ```
 ## STEP 7
 ## copy the explorer link in CMD and past in your browser to check if verified . 
+!https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20125658%20(2).png
+
 
 ## STEP 8
 -------------
