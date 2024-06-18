@@ -60,7 +60,7 @@ aligned submit \
 
 ## FINAL STEP
 ## Submit tweet Proof in Dscord's Testnet channel
-![image](AlignedLayer/discord-proof)
+![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/AlignedLayer/discord-proof)
 
 
 ### DISCORD LINK 
