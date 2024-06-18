@@ -50,12 +50,12 @@ aligned submit \
 ```
 ## STEP 7
 ## copy the explorer link in CMD and past in your browser to check if verified . 
-![image](AlignedLayer/explorer-picture)
+![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/AlignedLayer/explorer-picture)
 
 
 ## STEP 8
 ### Tweet exactly as screenshot 
-![image](AlignedLayer/tweet-proof)
+![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/AlignedLayer/tweet-proof)
 
 
 ## FINAL STEP
@@ -65,3 +65,6 @@ aligned submit \
 
 ### DISCORD LINK 
 https://discord.gg/yeHaG3kJ
+
+
+### That's all for now.
