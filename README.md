@@ -1,8 +1,11 @@
 # ALIGNEDLAYER TESTNET TASK
+![image](https://pbs.twimg.com/profile_banners/1752189672770469888/1715971691/1500x500)
 
-## To perform this task, you need a virtual machine. 
+### To perform this task, you need a virtual machine. You get get a VPS for $7 at vpsdime.com and check youtube on how to setup a VPS. 
 
-## After getting a VPS, let's jump right into it
+### Another alternative is to setup your PC's virtual Machine, check youtube on how to set it up
+
+## Now let's jump right into it
 ## STEP 1
 ```
 sudo apt update -y
@@ -51,13 +54,13 @@ aligned submit \
 
 
 ## STEP 8
--------------
-----------------------
 ### Tweet exactly as screenshot 
+![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20133758.png)
+
 
 ## FINAL STEP
-## Submit Proof in Dscord's Testnet channel
-
+## Submit tweet Proof in Dscord's Testnet channel
+![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20133654.png)
 
 
 ### DISCORD LINK 
