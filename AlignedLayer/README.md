@@ -50,17 +50,17 @@ aligned submit \
 ```
 ## STEP 7
 ## copy the explorer link in CMD and past in your browser to check if verified . 
-![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20125658.png)
+![image](AlignedLayer/explorer-picture)
 
 
 ## STEP 8
 ### Tweet exactly as screenshot 
-![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20133758.png)
+![image](AlignedLayer/tweet-proof)
 
 
 ## FINAL STEP
 ## Submit tweet Proof in Dscord's Testnet channel
-![image](https://github.com/KingTheAnalyst/Blockchain-Contributions/blob/main/Screenshot%202024-06-18%20133654.png)
+![image](AlignedLayer/discord-proof)
 
 
 ### DISCORD LINK 
